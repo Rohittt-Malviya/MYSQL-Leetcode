@@ -1,31 +1,33 @@
+
 # 🚀 MYSQL LeetCode Solutions
 
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=58A6FF&width=600&lines=Master+SQL+for+Interviews;Crack+LeetCode+Database+Problems;Think+in+Queries+🔥" />
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=58A6FF&width=650&lines=Master+SQL+for+Interviews;Crack+LeetCode+Database+Problems;Think+in+Queries+🔥;Level+Up+Your+SQL+Game" />
+
+---
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rohittt-Malviya&show_icons=true&theme=github_dark&hide_border=true" />  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohittt-Malviya&theme=github-dark&hide_border=true" />  
 
 ---
 
 ## 🧠 About
 
 ```text
-💡 Premium collection of MySQL solutions for LeetCode
+💡 MySQL solutions for LeetCode
 
-🎯 Goal:
-→ Master SQL fundamentals
-→ Crack technical interviews
-→ Think like a database engineer
+🎯 Focus:
+→ Master SQL
+→ Crack interviews
+→ Think like a DB engineer
 ```
 
 ---
 
-## ✨ Features
+## ⚡ Tech Stack
 
-```text
-🚀 Structured by difficulty
-🧠 Real interview problems
-⚡ Optimized SQL queries
-📈 Continuously improving
-💎 Clean & minimal code style
-```
+<img src="https://skillicons.dev/icons?i=mysql,java,git,github,vscode" />
 
 ---
 
@@ -33,10 +35,9 @@
 
 ```text
 MYSQL-Leetcode/
-├── 🟢 Easy/
-├── 🟡 Medium/
-├── 🔴 Hard/
-└── README.md
+├── Easy/
+├── Medium/
+├── Hard/
 ```
 
 ---
@@ -44,82 +45,21 @@ MYSQL-Leetcode/
 ## 🧩 SQL Concepts
 
 ```text
-🔹 BASICS
-SELECT
-WHERE
-DISTINCT
-ORDER BY
-LIMIT
-```
-
-```text
-🔹 FILTERING
-AND / OR / NOT
-BETWEEN
-IN / NOT IN
-LIKE
-IS NULL
-```
-
-```text
-🔹 JOINS
-INNER JOIN
-LEFT JOIN
-RIGHT JOIN
-FULL JOIN
-SELF JOIN
-```
-
-```text
-🔹 AGGREGATION
-COUNT()
-SUM()
-AVG()
-MIN()
-MAX()
-```
-
-```text
-🔹 GROUPING
-GROUP BY
-HAVING
-```
-
-```text
-🔹 SUBQUERIES
-Single Row
-Multiple Row
-Correlated
-```
-
-```text
-🔹 ADVANCED
-WINDOW FUNCTIONS
-ROW_NUMBER()
-RANK()
-DENSE_RANK()
-PARTITION BY
-CASE
-CTE
-```
-
-```text
-🔹 SET OPERATIONS
-UNION
-UNION ALL
-INTERSECT
-EXCEPT
+BASICS        → SELECT, WHERE, ORDER BY
+FILTERING     → AND, IN, LIKE, NULL
+JOINS         → INNER, LEFT, RIGHT
+AGGREGATION   → COUNT, SUM, AVG
+GROUPING      → GROUP BY, HAVING
+SUBQUERIES    → Nested, Correlated
+ADVANCED      → WINDOW, RANK, CTE
+SET OPS       → UNION, INTERSECT
 ```
 
 ---
 
-## 📊 Progress
+## 📈 LeetCode Progress
 
-```text
-🟢 Easy   → 🚧 Updating
-🟡 Medium → 🚧 Updating
-🔴 Hard   → 🚧 Updating
-```
+<img src="https://leetcard.jacoblin.cool/Rohittt-Malviya?theme=dark&font=Baloo&ext=contest" />
 
 ---
 
@@ -130,9 +70,7 @@ git clone https://github.com/Rohittt-Malviya/MYSQL-Leetcode.git
 ```
 
 ```text
-→ Open folder
-→ Run queries
-→ Practice daily 🚀
+→ Open → Run → Practice 🚀
 ```
 
 ---
@@ -140,10 +78,10 @@ git clone https://github.com/Rohittt-Malviya/MYSQL-Leetcode.git
 ## 🎯 Why This Repo
 
 ```text
-✔ Interview-focused SQL roadmap
-✔ Real-world query thinking
-✔ Beginner → Advanced flow
-✔ Clean & production-style queries
+✔ Interview-focused SQL
+✔ Real-world query patterns
+✔ Beginner → Advanced roadmap
+✔ Clean & optimized solutions
 ```
 
 ---
@@ -161,9 +99,7 @@ git clone https://github.com/Rohittt-Malviya/MYSQL-Leetcode.git
 ## 🌟 Support
 
 ```text
-⭐ Star
-🍴 Fork
-📢 Share
+⭐ Star   🍴 Fork   📢 Share
 ```
 
 ---
@@ -172,44 +108,21 @@ git clone https://github.com/Rohittt-Malviya/MYSQL-Leetcode.git
 
 ```text
 Rohit Malviya
-Full Stack Developer
-Java | DSA
-
-💡 Building impactful products, not just projects
+Full Stack Developer | Java | DSA
 ```
 
 ---
 
 ## 🔗 Connect
 
-<img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github" />
+<a href="https://github.com/Rohittt-Malviya">
+  <img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github" />
+</a>
 
 ---
 
-## 🧠 Future Enhancements
+## 🔥 Extras
 
-```text
-🔥 LeetCode stats integration
-📊 Auto problem counter
-📚 Query explanations + complexity
-🎨 Custom banner
-```
+<img src="https://github-profile-trophy.vercel.app/?username=Rohittt-Malviya&theme=onestar&no-frame=true&row=1&margin-w=15" />
 
 ---
-
-### 💎 This version gives you:
-
-* 🖤 Dark GitHub-native feel
-* 📦 Card-style sections (via code blocks)
-* 📱 Perfect vertical alignment
-* 👀 Extremely readable + standout
-
----
-
-If you want FINAL boss level 😈
-I can build:
-👉 **custom banner (your name + branding)**
-👉 **live LeetCode stats + streak auto-update**
-👉 **GitHub profile README matching this repo**
-
-Just say: **“full personal brand setup” 🚀**
