@@ -1,61 +1,67 @@
 📊 MYSQL LeetCode Solutions
-<p align="center"> 🚀 Mastering SQL for Interviews & Real-World Applications </p> <p align="center"> <img src="https://img.shields.io/badge/Language-SQL-blue?style=for-the-badge&logo=mysql" /> <img src="https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge&logo=leetcode" /> <img src="https://img.shields.io/badge/Focus-Database%20Problems-green?style=for-the-badge" /> </p>
-🧠 About This Repository
+<h3 align="center">🚀 Master SQL for Interviews & Real-World Applications</h3> <p align="center"> <img src="https://img.shields.io/badge/SQL-MySQL-informational?style=for-the-badge&logo=mysql&color=blue" /> <img src="https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge&logo=leetcode" /> <img src="https://img.shields.io/badge/Focus-Interview%20Prep-success?style=for-the-badge" /> </p> <p align="center"> <b>💡 Clean Queries • 📚 Strong Concepts • 🎯 Interview Ready</b> </p>
+🧠 About
 
-This repository contains well-structured MySQL solutions to LeetCode problems, aimed at:
+💻 A curated collection of MySQL solutions for LeetCode problems
+designed to help you crack interviews and master SQL like a pro.
 
-📚 Strengthening SQL fundamentals
-🎯 Cracking technical interviews
-⚡ Writing optimized and clean queries
-📌 What You'll Find
+✨ Highlights
+🚀 Structured by difficulty (Easy → Hard)
+🧠 Covers real interview patterns
+⚡ Clean & optimized SQL queries
+📈 Continuously updated
+🗂️ Project Structure
+MYSQL-Leetcode/
+├── 🟢 Easy/
+├── 🟡 Medium/
+├── 🔴 Hard/
+└── README.md
 
-✨ Organized solutions by difficulty
-✨ Clean & readable SQL queries
-✨ Focus on real interview patterns
-✨ Continuous updates
+🚀 SQL Topics Covered
+<p align="center">
 
+SELECT • WHERE • JOINS • GROUP BY • HAVING
+SUBQUERIES • WINDOW FUNCTIONS • AGGREGATIONS
 
-
-🚀 Topics Covered
-🔹 Basic Queries (SELECT, WHERE)
-🔹 Joins (INNER, LEFT, RIGHT)
-🔹 Aggregations (COUNT, SUM, AVG)
-🔹 GROUP BY & HAVING
-🔹 Subqueries
-🔹 Window Functions
-🔹 Advanced SQL Concepts
-
-
-
-⚡ How to Use
+</p>
+📈 Progress
+<p align="center">
+Level	Status
+🟢 Easy	🚧 Updating
+🟡 Medium	🚧 Updating
+🔴 Hard	🚧 Updating
+</p>
+⚡ Quick Start
 git clone https://github.com/Rohittt-Malviya/MYSQL-Leetcode.git
 
-Open any problem folder
-Run queries in MySQL / LeetCode editor
-Practice and improve 🚀
+
+✔ Open any folder
+✔ Run queries in MySQL / LeetCode
+✔ Practice & level up 🚀
+
 🎯 Why This Repo?
 
-✔ Interview-focused SQL practice
-✔ Real-world query patterns
-✔ Clean & optimized solutions
+✨ Interview-focused SQL practice
+✨ Real-world query patterns
+✨ Beginner → Advanced roadmap
 
-🤝 Contributing
+🤝 Contribute
 
-Want to improve this repo?
+Want to make this better?
 
-💡 Add better queries
-🧠 Optimize solutions
+💡 Improve queries
+🧠 Add optimizations
 📝 Add explanations
 
-Pull requests are welcome!
+PRs are welcome 🚀
 
 🌟 Support
 
-If you find this helpful:
+If this helped you:
 
-⭐ Star the repo
+⭐ Star this repo
 🍴 Fork it
-📢 Share with friends
+📢 Share with others
 
 👨‍💻 Author
 
@@ -64,5 +70,6 @@ Rohit Malviya
 🚀 Full Stack Developer | Java | DSA
 💡 Building impactful products, not just projects
 
-🔗 Connect With Me
-GitHub: https://github.com/Rohittt-Malviya
+🔗 Connect
+
+🔗 GitHub: https://github.com/Rohittt-Malviya
