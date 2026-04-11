@@ -14,12 +14,7 @@ This repository contains well-structured MySQL solutions to LeetCode problems, a
 ✨ Focus on real interview patterns
 ✨ Continuous updates
 
-🗂️ Folder Structure
-MYSQL-Leetcode/
-├── Easy/
-├── Medium/
-├── Hard/
-└── README.md
+
 
 🚀 Topics Covered
 🔹 Basic Queries (SELECT, WHERE)
@@ -29,11 +24,9 @@ MYSQL-Leetcode/
 🔹 Subqueries
 🔹 Window Functions
 🔹 Advanced SQL Concepts
-📈 Progress Tracker
-Difficulty	Problems Solved
-🟢 Easy	✅ Updating...
-🟡 Medium	✅ Updating...
-🔴 Hard	✅ Updating...
+
+
+
 ⚡ How to Use
 git clone https://github.com/Rohittt-Malviya/MYSQL-Leetcode.git
 
