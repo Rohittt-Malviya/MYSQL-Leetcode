@@ -5,12 +5,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rohittt-Malviya&show_icons=true&theme=github_dark&hide_border=true" />  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohittt-Malviya&theme=github-dark&hide_border=true" />  
-
----
 
 ## 🧠 About
 
@@ -55,13 +50,9 @@ ADVANCED      → WINDOW, RANK, CTE
 SET OPS       → UNION, INTERSECT
 ```
 
----
 
-## 📈 LeetCode Progress
 
-<img src="https://leetcard.jacoblin.cool/Rohittt-Malviya?theme=dark&font=Baloo&ext=contest" />
 
----
 
 ## ⚡ Setup
 
