@@ -1,82 +1,215 @@
-:
+# 🚀 MYSQL LeetCode Solutions
 
-🚀 MYSQL LeetCode Solutions
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Master+SQL+for+Interviews;Solve+LeetCode+Database+Problems;Think+in+Queries+%F0%9F%94%A5" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Code-SQL-blue?style=for-the-badge&logo=mysql" /> <img src="https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge&logo=leetcode" /> <img src="https://img.shields.io/badge/Focus-Data%20Structures%20%26%20Queries-success?style=for-the-badge" /> </p> <p align="center"> <b>⚡ Clean Queries • 🚀 Optimized Solutions • 🎯 Interview Ready</b> </p>
-🧠 About This Repository
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=58A6FF&width=600&lines=Master+SQL+for+Interviews;Crack+LeetCode+Database+Problems;Think+in+Queries+🔥" />
 
-💡 A premium collection of MySQL solutions to LeetCode problems
-designed to help you go from beginner → interview-ready SQL developer
+---
 
-🔥 Focused on:
+## 🧠 About
 
-Writing clean & optimized queries
-Understanding real-world database patterns
-Mastering interview-level SQL problems
-✨ Features
+```text
+💡 Premium collection of MySQL solutions for LeetCode
 
-🚀 Difficulty-wise structured solutions
-🧠 Covers real interview questions
-⚡ Optimized & readable SQL queries
-📈 Regular updates & improvements
-💎 Minimal + professional structure
+🎯 Goal:
+→ Master SQL fundamentals
+→ Crack technical interviews
+→ Think like a database engineer
+```
 
-🗂️ Repository Structure
+---
+
+## ✨ Features
+
+```text
+🚀 Structured by difficulty
+🧠 Real interview problems
+⚡ Optimized SQL queries
+📈 Continuously improving
+💎 Clean & minimal code style
+```
+
+---
+
+## 🗂️ Structure
+
+```text
 MYSQL-Leetcode/
 ├── 🟢 Easy/
 ├── 🟡 Medium/
 ├── 🔴 Hard/
 └── README.md
+```
 
-🧩 SQL Concepts Covered
-<p align="center">
+---
 
-SELECT • WHERE • JOINS • GROUP BY • HAVING
-SUBQUERIES • WINDOW FUNCTIONS • AGGREGATIONS • CASE
+## 🧩 SQL Concepts
 
-</p>
-📊 Progress Dashboard
-<p align="center"> <img src="https://img.shields.io/badge/Easy-Progress%20Updating-brightgreen?style=for-the-badge" /> <img src="https://img.shields.io/badge/Medium-Progress%20Updating-yellow?style=for-the-badge" /> <img src="https://img.shields.io/badge/Hard-Progress%20Updating-red?style=for-the-badge" /> </p>
-⚡ Get Started
+```text
+🔹 BASICS
+SELECT
+WHERE
+DISTINCT
+ORDER BY
+LIMIT
+```
+
+```text
+🔹 FILTERING
+AND / OR / NOT
+BETWEEN
+IN / NOT IN
+LIKE
+IS NULL
+```
+
+```text
+🔹 JOINS
+INNER JOIN
+LEFT JOIN
+RIGHT JOIN
+FULL JOIN
+SELF JOIN
+```
+
+```text
+🔹 AGGREGATION
+COUNT()
+SUM()
+AVG()
+MIN()
+MAX()
+```
+
+```text
+🔹 GROUPING
+GROUP BY
+HAVING
+```
+
+```text
+🔹 SUBQUERIES
+Single Row
+Multiple Row
+Correlated
+```
+
+```text
+🔹 ADVANCED
+WINDOW FUNCTIONS
+ROW_NUMBER()
+RANK()
+DENSE_RANK()
+PARTITION BY
+CASE
+CTE
+```
+
+```text
+🔹 SET OPERATIONS
+UNION
+UNION ALL
+INTERSECT
+EXCEPT
+```
+
+---
+
+## 📊 Progress
+
+```text
+🟢 Easy   → 🚧 Updating
+🟡 Medium → 🚧 Updating
+🔴 Hard   → 🚧 Updating
+```
+
+---
+
+## ⚡ Setup
+
+```bash
 git clone https://github.com/Rohittt-Malviya/MYSQL-Leetcode.git
+```
 
+```text
+→ Open folder
+→ Run queries
+→ Practice daily 🚀
+```
 
-💻 Open → Run → Practice → Improve 🚀
+---
 
-🎯 Why This Repo Stands Out
+## 🎯 Why This Repo
 
+```text
 ✔ Interview-focused SQL roadmap
 ✔ Real-world query thinking
-✔ Beginner → Advanced progression
+✔ Beginner → Advanced flow
 ✔ Clean & production-style queries
+```
 
-🤝 Contributing
+---
 
-Want to make this even better?
+## 🤝 Contributing
 
-💡 Add better queries
-🧠 Optimize performance
+```text
+💡 Improve queries
+🧠 Optimize logic
 📝 Add explanations
+```
 
-PRs are always welcome 🚀
+---
 
-🌟 Show Your Support
+## 🌟 Support
 
-If this helped you grow:
+```text
+⭐ Star
+🍴 Fork
+📢 Share
+```
 
-⭐ Star this repo
-🍴 Fork it
-📢 Share with devs
+---
 
-👨‍💻 Author
+## 👨‍💻 Author
 
+```text
 Rohit Malviya
+Full Stack Developer
+Java | DSA
 
-<p align="center"> 🚀 Full Stack Developer | Java | DSA <br> 💡 Building impactful products, not just projects </p>
-🔗 Connect With Me
-<p align="center"> <a href="https://github.com/Rohittt-Malviya"> <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" /> </a> </p>
-🧠 Future Enhancements
+💡 Building impactful products, not just projects
+```
 
+---
+
+## 🔗 Connect
+
+<img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github" />
+
+---
+
+## 🧠 Future Enhancements
+
+```text
 🔥 LeetCode stats integration
 📊 Auto problem counter
 📚 Query explanations + complexity
-🎨 Custom animated banner
+🎨 Custom banner
+```
+
+---
+
+### 💎 This version gives you:
+
+* 🖤 Dark GitHub-native feel
+* 📦 Card-style sections (via code blocks)
+* 📱 Perfect vertical alignment
+* 👀 Extremely readable + standout
+
+---
+
+If you want FINAL boss level 😈
+I can build:
+👉 **custom banner (your name + branding)**
+👉 **live LeetCode stats + streak auto-update**
+👉 **GitHub profile README matching this repo**
+
+Just say: **“full personal brand setup” 🚀**
