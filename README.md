@@ -111,9 +111,3 @@ Full Stack Developer | Java | DSA
 </a>
 
 ---
-
-## 🔥 Extras
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rohittt-Malviya&theme=onestar&no-frame=true&row=1&margin-w=15" />
-
----
